@@ -22,18 +22,18 @@ git clone https://github.com/yourusername/news-web-app.git
 
 #### 2. Start the project
 ```bash
-    cd BACKEND
-    npm install
+cd BACKEND
+npm install
 
-    npm run dev: Start the development server
-    npm test: Run tests
+npm run dev
+npm test
 
 
-    cd FRONTEND
-    npm install
+cd FRONTEND
+npm install
 
-    npm run dev: Start the development server
-    npm run build: Build the artifact
+npm run dev
+npm run build
 ```
 
 
