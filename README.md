@@ -9,7 +9,7 @@ A web application for managing news, built with a frontend using Vite + React, a
 
 ## Prerequisites
 
-- [Node.js](https://nodejs.org/)
+- [Node.js](https://nodejs.org/) (v.20.18.0)
 - [MongoDB](https://www.mongodb.com/)
 
 ## Getting Started
