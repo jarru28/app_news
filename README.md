@@ -9,7 +9,7 @@ A web application for managing news, built with a frontend using Vite + React, a
 
 ## Prerequisites
 
-- [Node.js](https://nodejs.org/) (v14+)
+- [Node.js](https://nodejs.org/)
 - [MongoDB](https://www.mongodb.com/)
 
 ## Getting Started
@@ -18,10 +18,10 @@ A web application for managing news, built with a frontend using Vite + React, a
 
 ```bash
 git clone https://github.com/yourusername/news-web-app.git
-
+```
 
 #### 2. Start the project
-
+```bash
     cd BACKEND
     npm install
 
@@ -34,7 +34,6 @@ git clone https://github.com/yourusername/news-web-app.git
 
     npm run dev: Start the development server
     npm run build: Build the artifact
-
-
+```
 
 
