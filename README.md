@@ -14,13 +14,7 @@ A web application for managing news, built with a frontend using Vite + React, a
 
 ## Getting Started
 
-### 1. Clone the repository
-
-```bash
-git clone https://github.com/yourusername/news-web-app.git
-```
-
-#### 2. Start the project
+#### 1. Start the project
 ```bash
 cd BACKEND
 npm install
